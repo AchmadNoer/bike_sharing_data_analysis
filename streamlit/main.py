@@ -7,7 +7,7 @@ locale.setlocale(locale.LC_ALL, 'en_US')
 
 sns.set(style='white')
 
-bike_data = pd.read_csv("hour.csv")
+bike_data = pd.read_csv("./streamlit/hour.csv")
 
 bike_data.drop(['instant', 'dteday', 'atemp'], axis=1, inplace=True)
 bike_data.columns = ['season', 'year', 'month', 'hour', 'is_holiday', 'day', 'is_workingday',
