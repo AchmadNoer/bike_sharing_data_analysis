@@ -13,7 +13,7 @@ This project is a data analysis and visualization project focused on Bike Sharin
 
 ## Data Source
 
-[Bike Sharing Data]("https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset") from Kaggle 
+[Bike Sharing Data](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) from Kaggle 
 
 ## Installing Requirements
 
@@ -43,8 +43,8 @@ pip install -r requirements.txt
 streamlit run streamlit/main.py
 ```
 
-* Another option, you can access this [online link]("https://achmadnoer-analyzing-bike-sharing-data.streamlit.app").
+* Another option, you can access this [online link](https://achmadnoer-analyzing-bike-sharing-data.streamlit.app).
 
 ## Author
 
-Achmad Noer Aziz ([Dicoding]("https://www.dicoding.com/users/achmadnoer/academies"))
+Achmad Noer Aziz ([Dicoding](https://www.dicoding.com/users/achmadnoer/academies))
