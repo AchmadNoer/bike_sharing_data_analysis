@@ -1,6 +1,4 @@
-numpy==1.24.1
-matplotlib==3.7.3
-pandas==1.5.2
+numpy==1.24.4
+matplotlib==3.7.4
+pandas==2.0.3
 seaborn==0.13.0
-streamlit
-locale
