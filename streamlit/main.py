@@ -2,8 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
-import locale
-locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 sns.set(style='white')
 
